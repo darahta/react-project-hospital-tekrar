@@ -1,0 +1,10 @@
+.menuLink {
+   text-decoration: none;
+   color: #c2baba;
+   font-family: sans-serif;
+   font-size: large;
+   transition: all 0.2s linear;
+}
+.menuLink:hover {
+   color: #fff;
+}
